@@ -162,7 +162,7 @@ Opt for the "POST" HTTP method. Type in the URL: http://localhost/api/public/pos
 
 Select the "GET" HTTP method. Specify the URL: http://localhost/api/public/getName. Keep the request body empty, as no additional parameters are needed. Click "Send" to fetch the data. Delete Data from the Database:
 
-Choose the "POST" HTTP method. Enter the URL: http://localhost/api/public/updateName. Add the "id," "fname," and "lname" parameters to the request body with the updated values. Click "Send" to submit the request. Retrieve Data from the Database:
+Choose the "POST" HTTP method. Enter the URL: http://localhost/api/public/updateName. Add the "id," "lname," and "fname" parameters to the request body with the updated values. Click "Send" to submit the request. Retrieve Data from the Database:
 
 Set the HTTP method to "POST." Input the URL: http://localhost/api/public/deleteName. In the request body, include the "id" parameter with the ID of the data you want to delete. Click "Send" to start the deletion process.
 

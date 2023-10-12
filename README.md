@@ -183,9 +183,9 @@ No License.
 
 Dr. Manny Hortizuela:
 
-some codes
-structure of the database
-payloads
+some codes, 
+structure of the database, 
+payloads, 
 others
 
  
